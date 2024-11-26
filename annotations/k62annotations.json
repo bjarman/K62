@@ -1,202 +1,206 @@
-{
-  "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://bjarman.github.io/K62/annotations/k62annotations.json",
-  "@type" : "sc:AnnotationList",
-  "resources" : [ {
-    "@type" : "oa:Annotation",
-    "motivation" : "sc:painting",
-    "resource" : {
-      "@id" : "https://bjarman.github.io/K62/annotations/k62annotations.json-1",
-      "@type" : "cnt:ContentAsText",
-      "format" : "text/plain",
-      "chars" : "Delle Frascherie Fasci Tre. Venet 0x"
-    },
-    "on" : "http://98c3dc1d-01c3-43c0-9688-93bb233796fc#xywh=327,624,1593,111",
-    "within" : {
-      "@id" : "http://dams.llgc.org.uk/iiif/newspaper/issue/3320640/manifest.json",
-      "@type" : "sc:Manifest"
-    }
-  }, {
-    "@type" : "oa:Annotation",
-    "motivation" : "sc:painting",
-    "resource" : {
-      "@id" : "https://bjarman.github.io/K62/annotations/k62annotations.json-2",
-      "@type" : "cnt:ContentAsText",
-      "format" : "text/plain",
-      "chars" : "1651. 0"
-    },
-    "on" : "http://98c3dc1d-01c3-43c0-9688-93bb233796fc#xywh=556,733,420,87",
-    "within" : {
-      "@id" : "http://dams.llgc.org.uk/iiif/newspaper/issue/3320640/manifest.json",
-      "@type" : "sc:Manifest"
-    }
-  }, {
-    "@type" : "oa:Annotation",
-    "motivation" : "sc:painting",
-    "resource" : {
-      "@id" : "https://bjarman.github.io/K62/annotations/k62annotations.json-3",
-      "@type" : "cnt:ContentAsText",
-      "format" : "text/plain",
-      "chars" : "Abati, Anton."
-    },
-    "on" : "http://98c3dc1d-01c3-43c0-9688-93bb233796fc#xywh=573,453,842,137",
-    "within" : {
-      "@id" : "http://dams.llgc.org.uk/iiif/newspaper/issue/3320640/manifest.json",
-      "@type" : "sc:Manifest"
-    }
-  }, {
-    "@type" : "oa:Annotation",
-    "motivation" : "sc:painting",
-    "resource" : {
-      "@id" : "https://bjarman.github.io/K62/annotations/k62annotations.json-4",
-      "@type" : "cnt:ContentAsText",
-      "format" : "text/plain",
-      "chars" : "Delle Frascherie. Fasci 3."
-    },
-    "on" : "http://98c3dc1d-01c3-43c0-9688-93bb233796fc#xywh=397,804,919,86",
-    "within" : {
-      "@id" : "http://dams.llgc.org.uk/iiif/newspaper/issue/3320640/manifest.json",
-      "@type" : "sc:Manifest"
-    }
-  }, {
-    "@type" : "oa:Annotation",
-    "motivation" : "sc:painting",
-    "resource" : {
-      "@id" : "https://bjarman.github.io/K62/annotations/k62annotations.json-5",
-      "@type" : "cnt:ContentAsText",
-      "format" : "text/plain",
-      "chars" : "Lugd. Bat. 1682. 12:o."
-    },
-    "on" : "http://98c3dc1d-01c3-43c0-9688-93bb233796fc#xywh=609,864,803,108",
-    "within" : {
-      "@id" : "http://dams.llgc.org.uk/iiif/newspaper/issue/3320640/manifest.json",
-      "@type" : "sc:Manifest"
-    }
-  }, {
-    "@type" : "oa:Annotation",
-    "motivation" : "sc:painting",
-    "resource" : {
-      "@id" : "https://bjarman.github.io/K62/annotations/k62annotations.json-6",
-      "@type" : "cnt:ContentAsText",
-      "format" : "text/plain",
-      "chars" : "Anthonij de Abbatia eines erfahren"
-    },
-    "on" : "http://98c3dc1d-01c3-43c0-9688-93bb233796fc#xywh=318,995,1348,148",
-    "within" : {
-      "@id" : "http://dams.llgc.org.uk/iiif/newspaper/issue/3320640/manifest.json",
-      "@type" : "sc:Manifest"
-    }
-  }, {
-    "@type" : "oa:Annotation",
-    "motivation" : "sc:painting",
-    "resource" : {
-      "@id" : "https://bjarman.github.io/K62/annotations/k62annotations.json-7",
-      "@type" : "cnt:ContentAsText",
-      "format" : "text/plain",
-      "chars" : "Münches in der Kunst aussgefärtiges"
-    },
-    "on" : "http://98c3dc1d-01c3-43c0-9688-93bb233796fc#xywh=533,1098,1290,160",
-    "within" : {
-      "@id" : "http://dams.llgc.org.uk/iiif/newspaper/issue/3320640/manifest.json",
-      "@type" : "sc:Manifest"
-    }
-  }, {
-    "@type" : "oa:Annotation",
-    "motivation" : "sc:painting",
-    "resource" : {
-      "@id" : "https://bjarman.github.io/K62/annotations/k62annotations.json-8",
-      "@type" : "cnt:ContentAsText",
-      "format" : "text/plain",
-      "chars" : "Send-Schreiben."
-    },
-    "on" : "http://98c3dc1d-01c3-43c0-9688-93bb233796fc#xywh=550,1194,616,95",
-    "within" : {
-      "@id" : "http://dams.llgc.org.uk/iiif/newspaper/issue/3320640/manifest.json",
-      "@type" : "sc:Manifest"
-    }
-  }, {
-    "@type" : "oa:Annotation",
-    "motivation" : "sc:painting",
-    "resource" : {
-      "@id" : "https://bjarman.github.io/K62/annotations/k62annotations.json-9",
-      "@type" : "cnt:ContentAsText",
-      "format" : "text/plain",
-      "chars" : "Se: Bücher, Drey. chymische."
-    },
-    "on" : "http://98c3dc1d-01c3-43c0-9688-93bb233796fc#xywh=650,1275,1105,162",
-    "within" : {
-      "@id" : "http://dams.llgc.org.uk/iiif/newspaper/issue/3320640/manifest.json",
-      "@type" : "sc:Manifest"
-    }
-  }, {
-    "@type" : "oa:Annotation",
-    "motivation" : "sc:painting",
-    "resource" : {
-      "@id" : "https://bjarman.github.io/K62/annotations/k62annotations.json-10",
-      "@type" : "cnt:ContentAsText",
-      "format" : "text/plain",
-      "chars" : "Litt."
-    },
-    "on" : "http://98c3dc1d-01c3-43c0-9688-93bb233796fc#xywh=1773,797,163,100",
-    "within" : {
-      "@id" : "http://dams.llgc.org.uk/iiif/newspaper/issue/3320640/manifest.json",
-      "@type" : "sc:Manifest"
-    }
-  }, {
-    "@type" : "oa:Annotation",
-    "motivation" : "sc:painting",
-    "resource" : {
-      "@id" : "https://bjarman.github.io/K62/annotations/k62annotations.json-11",
-      "@type" : "cnt:ContentAsText",
-      "format" : "text/plain",
-      "chars" : "Ital."
-    },
-    "on" : "http://98c3dc1d-01c3-43c0-9688-93bb233796fc#xywh=1794,866,178,78",
-    "within" : {
-      "@id" : "http://dams.llgc.org.uk/iiif/newspaper/issue/3320640/manifest.json",
-      "@type" : "sc:Manifest"
-    }
-  }, {
-    "@type" : "oa:Annotation",
-    "motivation" : "sc:painting",
-    "resource" : {
-      "@id" : "https://bjarman.github.io/K62/annotations/k62annotations.json-12",
-      "@type" : "cnt:ContentAsText",
-      "format" : "text/plain",
-      "chars" : "[112:190]"
-    },
-    "on" : "http://98c3dc1d-01c3-43c0-9688-93bb233796fc#xywh=1753,915,309,88",
-    "within" : {
-      "@id" : "http://dams.llgc.org.uk/iiif/newspaper/issue/3320640/manifest.json",
-      "@type" : "sc:Manifest"
-    }
-  }, {
-    "@type" : "oa:Annotation",
-    "motivation" : "sc:painting",
-    "resource" : {
-      "@id" : "https://bjarman.github.io/K62/annotations/k62annotations.json-13",
-      "@type" : "cnt:ContentAsText",
-      "format" : "text/plain",
-      "chars" : "Litt."
-    },
-    "on" : "http://98c3dc1d-01c3-43c0-9688-93bb233796fc#xywh=1954,619,209,82",
-    "within" : {
-      "@id" : "http://dams.llgc.org.uk/iiif/newspaper/issue/3320640/manifest.json",
-      "@type" : "sc:Manifest"
-    }
-  }, {
-    "@type" : "oa:Annotation",
-    "motivation" : "sc:painting",
-    "resource" : {
-      "@id" : "https://bjarman.github.io/K62/annotations/k62annotations.json-14",
-      "@type" : "cnt:ContentAsText",
-      "format" : "text/plain",
-      "chars" : "Ital."
-    },
-    "on" : "http://98c3dc1d-01c3-43c0-9688-93bb233796fc#xywh=1967,694,199,80",
-    "within" : {
-      "@id" : "http://dams.llgc.org.uk/iiif/newspaper/issue/3320640/manifest.json",
-      "@type" : "sc:Manifest"
-    }
-  } ]
-}
+
+        {
+            "@context":"http://iiif.io/api/presentation/2/context.json",
+            "@id":"http://localhost:8003/static/altoAnnotations.json",
+            "@type":"sc:AnnotationList",
+            "resources":[
+                
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@id": "http://localhost:8003/static/altoAnnotations.json-1",
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Delle Frascherie Fasci Tre. Venet 0x"
+                        },
+                        "on":"http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=327,624,1593,111"
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@id": "http://localhost:8003/static/altoAnnotations.json-2",
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"1651. 0"
+                        },
+                        "on":"http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=556,733,420,87"
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@id": "http://localhost:8003/static/altoAnnotations.json-3",
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Abati, Anton."
+                        },
+                        "on":"http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=573,453,842,137"
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@id": "http://localhost:8003/static/altoAnnotations.json-4",
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Delle Frascherie. Fasci 3."
+                        },
+                        "on":"http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=397,804,919,86"
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@id": "http://localhost:8003/static/altoAnnotations.json-5",
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Lugd. Bat. 1682. 12:o."
+                        },
+                        "on":"http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=609,864,803,108"
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@id": "http://localhost:8003/static/altoAnnotations.json-6",
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Anthonij de Abbatia eines erfahren"
+                        },
+                        "on":"http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=318,995,1348,148"
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@id": "http://localhost:8003/static/altoAnnotations.json-7",
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Münches in der Kunst aussgefärtiges"
+                        },
+                        "on":"http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=533,1098,1290,160"
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@id": "http://localhost:8003/static/altoAnnotations.json-8",
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Send-Schreiben."
+                        },
+                        "on":"http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=550,1194,616,95"
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@id": "http://localhost:8003/static/altoAnnotations.json-9",
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Se: Bücher, Drey. chymische."
+                        },
+                        "on":"http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=650,1275,1105,162"
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@id": "http://localhost:8003/static/altoAnnotations.json-10",
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Litt."
+                        },
+                        "on":"http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=1773,797,163,100"
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@id": "http://localhost:8003/static/altoAnnotations.json-11",
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Ital."
+                        },
+                        "on":"http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=1794,866,178,78"
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@id": "http://localhost:8003/static/altoAnnotations.json-12",
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"[112:190]"
+                        },
+                        "on":"http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=1753,915,309,88"
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@id": "http://localhost:8003/static/altoAnnotations.json-13",
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Litt."
+                        },
+                        "on":"http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=1954,619,209,82"
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@id": "http://localhost:8003/static/altoAnnotations.json-14",
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Ital."
+                        },
+                        "on":"http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=1967,694,199,80"
+                        
+                    }
+            ]
+        }
+    
