@@ -1,0 +1,93 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://bjarman.github.io/K62/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in bjarman/K62 project"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://bjarman.github.io/K62/images/279/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "279"
+                ]
+            },
+            "height": 3096,
+            "width": 2352,
+            "items": [
+                {
+                    "id": "https://bjarman.github.io/K62/images/279/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://bjarman.github.io/K62/images/279/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://bjarman.github.io/K62/images/279/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 74,
+                                                "height": 97
+                                            },
+                                            {
+                                                "width": 147,
+                                                "height": 194
+                                            },
+                                            {
+                                                "width": 294,
+                                                "height": 387
+                                            },
+                                            {
+                                                "width": 588,
+                                                "height": 774
+                                            },
+                                            {
+                                                "width": 1176,
+                                                "height": 1548
+                                            },
+                                            {
+                                                "width": 2352,
+                                                "height": 3096
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2352,
+                                        "@id": "https://bjarman.github.io/K62/images/279",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3096,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://bjarman.github.io/K62/images/279/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
