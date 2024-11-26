@@ -10,7 +10,7 @@
                         "motivation":"sc:painting",
                         "resource":
                         {
-                            "@id": "http://localhost:8003/static/altoAnnotations.json-1",
+                            "@id": "https://bjarman.github.io/K62/annotations/k62annotations.json-1",
                             "@type":"cnt:ContentAsText",
                             "format":"text/plain",
                             
@@ -24,7 +24,7 @@
                         "motivation":"sc:painting",
                         "resource":
                         {
-                            "@id": "http://localhost:8003/static/altoAnnotations.json-2",
+                            "@id": "https://bjarman.github.io/K62/annotations/k62annotations.json-2",
                             "@type":"cnt:ContentAsText",
                             "format":"text/plain",
                             
@@ -38,7 +38,7 @@
                         "motivation":"sc:painting",
                         "resource":
                         {
-                            "@id": "http://localhost:8003/static/altoAnnotations.json-3",
+                            "@id": "https://bjarman.github.io/K62/annotations/k62annotations.json-3",
                             "@type":"cnt:ContentAsText",
                             "format":"text/plain",
                             
@@ -52,7 +52,7 @@
                         "motivation":"sc:painting",
                         "resource":
                         {
-                            "@id": "http://localhost:8003/static/altoAnnotations.json-4",
+                            "@id": "https://bjarman.github.io/K62/annotations/k62annotations.json-4",
                             "@type":"cnt:ContentAsText",
                             "format":"text/plain",
                             
@@ -66,7 +66,7 @@
                         "motivation":"sc:painting",
                         "resource":
                         {
-                            "@id": "http://localhost:8003/static/altoAnnotations.json-5",
+                            "@id": "https://bjarman.github.io/K62/annotations/k62annotations.json-5",
                             "@type":"cnt:ContentAsText",
                             "format":"text/plain",
                             
@@ -80,7 +80,7 @@
                         "motivation":"sc:painting",
                         "resource":
                         {
-                            "@id": "http://localhost:8003/static/altoAnnotations.json-6",
+                            "@id": "https://bjarman.github.io/K62/annotations/k62annotations.json-6",
                             "@type":"cnt:ContentAsText",
                             "format":"text/plain",
                             
@@ -94,7 +94,7 @@
                         "motivation":"sc:painting",
                         "resource":
                         {
-                            "@id": "http://localhost:8003/static/altoAnnotations.json-7",
+                            "@id": "https://bjarman.github.io/K62/annotations/k62annotations.json-7",
                             "@type":"cnt:ContentAsText",
                             "format":"text/plain",
                             
@@ -108,7 +108,7 @@
                         "motivation":"sc:painting",
                         "resource":
                         {
-                            "@id": "http://localhost:8003/static/altoAnnotations.json-8",
+                            "@id": "https://bjarman.github.io/K62/annotations/k62annotations.json-8",
                             "@type":"cnt:ContentAsText",
                             "format":"text/plain",
                             
@@ -122,7 +122,7 @@
                         "motivation":"sc:painting",
                         "resource":
                         {
-                            "@id": "http://localhost:8003/static/altoAnnotations.json-9",
+                            "@id": "https://bjarman.github.io/K62/annotations/k62annotations.json-9",
                             "@type":"cnt:ContentAsText",
                             "format":"text/plain",
                             
@@ -136,7 +136,7 @@
                         "motivation":"sc:painting",
                         "resource":
                         {
-                            "@id": "http://localhost:8003/static/altoAnnotations.json-10",
+                            "@id": "https://bjarman.github.io/K62/annotations/k62annotations.json-10",
                             "@type":"cnt:ContentAsText",
                             "format":"text/plain",
                             
@@ -150,7 +150,7 @@
                         "motivation":"sc:painting",
                         "resource":
                         {
-                            "@id": "http://localhost:8003/static/altoAnnotations.json-11",
+                            "@id": "https://bjarman.github.io/K62/annotations/k62annotations.json-11",
                             "@type":"cnt:ContentAsText",
                             "format":"text/plain",
                             
