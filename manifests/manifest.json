@@ -45,7 +45,7 @@
   "@id": "https://bjarman.github.io/K62/annotations/k62annotations.json",
   "@type": "sc:AnnotationList",
   "label": "K62 annotations"
-}],
+}]
       } ],
       "related" : ""
     } ]
