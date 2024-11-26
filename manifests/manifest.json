@@ -29,12 +29,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "http://localhost:8182/iiif/3/279.jpg/full/full/0/default.jpg",
+          "@id" : "https://bjarman.github.io/K62/images/279/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
-            "@context" : "http://iiif.io/api/image/3/context.json",
-            "@id" : "http://localhost:8182/iiif/3/279.jpg",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://bjarman.github.io/K62/images/279",
             "profile" : "level2"
           },
           "height" : 3096,
