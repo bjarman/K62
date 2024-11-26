@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://bjarman.github.io/K62/manifests/manifest.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://bjarman.github.io/K62/manifests/k62.json",
+    "label" : "[Click to edit label]"
   } ]
 }
