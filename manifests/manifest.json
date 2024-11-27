@@ -20,7 +20,7 @@
     "canvases" : [ {
       "@id" : "http://176d57ba-61ab-4852-b040-6f90d51cec0f",
       "@type" : "sc:Canvas",
-      "label" : "Empty canvas",
+      "label" : "K62 Image 279.jpg",
       "height" : 3096,
       "width" : 2352,
       "images" : [ {
@@ -52,7 +52,7 @@
     {
       "@id": "http://7052107a-fcae-41ff-a8e3-ad273b22c018",
       "@type": "sc:Canvas",
-      "label": "Empty canvas",
+      "label": "K62 Image 429409.jpg",
       "height": 3200,
       "width": 2600,
       "images": [
@@ -62,7 +62,7 @@
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
           "resource": {
-            "@id": "https://bjarman.github.io/K62/images/429409.jpg/full/full/0/default.jpg",
+            "@id": "https://bjarman.github.io/K62/images/429409/full/full/0/default.jpg",
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
