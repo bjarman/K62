@@ -2,10 +2,10 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://bjarman.github.io/K62/manifests/manifest.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "K62 Annotations Demo",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Click to edit description]",
+    "@value" : "K62 Annotations Demo",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
