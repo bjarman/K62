@@ -1,0 +1,116 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://bjarman.github.io/K62/annotations/429409.json",
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/K62/annotations/429409.json-1",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Ausgrabungen in Kültepe. Bericht über die im"
+    },
+    "on" : "http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=394,429,1800,151"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/K62/annotations/429409.json-2",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Auftrage der Türkischen historischen Gesell-"
+    },
+    "on" : "http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=556,528,1644,144"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/K62/annotations/429409.json-3",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "schaft 1948 durch geführten Ausgrabungen."
+    },
+    "on" : "http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=576,629,1594,136"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/K62/annotations/429409.json-4",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "[Von] Tahsin Özgüç."
+    },
+    "on" : "http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=568,717,829,124"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/K62/annotations/429409.json-5",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "[Även turkisk titel.]"
+    },
+    "on" : "http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=573,810,762,117"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/K62/annotations/429409.json-6",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Ankara 1950. 4.o"
+    },
+    "on" : "http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=578,917,747,80"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/K62/annotations/429409.json-7",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "(= Ankara, Türk tarih kurumu, Yayinlar,"
+    },
+    "on" : "http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=586,984,1558,162"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/K62/annotations/429409.json-8",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Ser. 5, No. 10.)"
+    },
+    "on" : "http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=624,1090,536,102"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/K62/annotations/429409.json-9",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Acta"
+    },
+    "on" : "http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=1196,1090,156,100"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/K62/annotations/429409.json-10",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Turk."
+    },
+    "on" : "http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=1200,1170,184,83"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/K62/annotations/429409.json-11",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "x 1954."
+    },
+    "on" : "http://176d57ba-61ab-4852-b040-6f90d51cec0f#xywh=2229,464,195,82"
+  } ]
+}
