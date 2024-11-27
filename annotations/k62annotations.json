@@ -1,7 +1,7 @@
 
         {
             "@context":"http://iiif.io/api/presentation/2/context.json",
-            "@id":"http://localhost:8003/static/altoAnnotations.json",
+            "@id":"https://bjarman.github.io/K62/annotations/k62annotations.json",
             "@type":"sc:AnnotationList",
             "resources":[
                 
