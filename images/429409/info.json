@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 82,
+    "height" : 100
+  }, {
+    "width" : 163,
+    "height" : 200
+  }, {
+    "width" : 325,
+    "height" : 400
+  }, {
+    "width" : 650,
+    "height" : 800
+  }, {
+    "width" : 1300,
+    "height" : 1600
+  }, {
+    "width" : 2600,
+    "height" : 3200
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2600,
+  "@id" : "https://bjarman.github.io/K62/images/429409",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3200
+}
