@@ -67,7 +67,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/3/context.json",
-              "@id": "https://bjarman.github.io/K62/images/429409.jpg",
+              "@id": "https://bjarman.github.io/K62/images/429409",
               "profile": "level2"
             },
             "height": 3200,
