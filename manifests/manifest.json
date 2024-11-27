@@ -48,6 +48,40 @@
   "label": "K62 annotations"
 }],
       "related" : ""
+    },
+    {
+      "@id": "http://7052107a-fcae-41ff-a8e3-ad273b22c018",
+      "@type": "sc:Canvas",
+      "label": "Empty canvas",
+      "height": 3200,
+      "width": 2600,
+      "images": [
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "http://0cdcd2f1-dc5f-48be-a3a7-fb4491a6e7e1",
+          "@type": "oa:Annotation",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "https://bjarman.github.io/K62/images/429409.jpg/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "@id": "https://bjarman.github.io/K62/images/429409.jpg",
+              "profile": "level2"
+            },
+            "height": 3200,
+            "width": 2600
+          },
+          "on": "http://7052107a-fcae-41ff-a8e3-ad273b22c018"
+        }
+      ],
+      "otherContent": [{
+  "@id": "https://bjarman.github.io/K62/annotations/429409.json",
+  "@type": "sc:AnnotationList",
+  "label": "K62 annotations"
+}],
+      "related": ""
     } ]
   } ],
   "structures" : [ ]
