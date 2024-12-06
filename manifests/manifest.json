@@ -85,9 +85,9 @@
     },{
       "@id" : "http://testarcanvasid",
       "@type" : "sc:Canvas",
-      "label" : "K62 Image 279.jpg",
-      "height" : 3096,
-      "width" : 2352,
+      "label" : "K62 Image 236652.jpg",
+      "height" : 3129,
+      "width" : 2471,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://1e005d0f-1a9c-4d14-9284-baefe5c09835",
