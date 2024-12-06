@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://bjarman.github.io/K62/annotations/k62annotations.json", "https://bjarman.github.io/K62/annotations/429409.json" ],
+  "otherContent" : [ "https://bjarman.github.io/K62/annotations/k62annotations.json", "https://bjarman.github.io/K62/annotations/429409.json", "https://bjarman.github.io/K62/annotations/236652.json" ],
   "@id" : "https://bjarman.github.io/K62/annotations/collection.json",
   "label" : "All annotations loaded in bjarman/K62 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
