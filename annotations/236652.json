@@ -1,0 +1,426 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://bjarman.github.io/K62/annotations/236652.json",
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-1",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Äldre blad arkiverat"
+    },
+    "on" : "http://canvas-id#xywh=1335,1,844,112"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-2",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "190"
+    },
+    "on" : "http://canvas-id#xywh=1212,28,151,72"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-3",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "14 6."
+    },
+    "on" : "http://canvas-id#xywh=2285,92,111,77"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-4",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "168"
+    },
+    "on" : "http://canvas-id#xywh=1325,156,155,142"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-5",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Louvet de Couvray, Jean Baptiste"
+    },
+    "on" : "http://canvas-id#xywh=586,290,1568,215"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-6",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Hist."
+    },
+    "on" : "http://canvas-id#xywh=2087,596,168,66"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-7",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Fransk"
+    },
+    "on" : "http://canvas-id#xywh=2118,653,165,52"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-8",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mémoires, de la journée du 31. Mai. T. I. II."
+    },
+    "on" : "http://canvas-id#xywh=402,556,1665,233"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-9",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Allm."
+    },
+    "on" : "http://canvas-id#xywh=2151,700,176,59"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-10",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "(Öfvers. på svenska, se nedan.)"
+    },
+    "on" : "http://canvas-id#xywh=1380,735,689,96"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-11",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "1821. D."
+    },
+    "on" : "http://canvas-id#xywh=650,748,376,100"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-12",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "B. N."
+    },
+    "on" : "http://canvas-id#xywh=2080,764,182,98"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-13",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Quelques notices pour l'histoire et le récit de"
+    },
+    "on" : "http://canvas-id#xywh=425,917,1612,112"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-14",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "mes perils depuis le 31. Mai 1793. Paris. an."
+    },
+    "on" : "http://canvas-id#xywh=652,1014,1440,125"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-15",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Br. litt Gall"
+    },
+    "on" : "http://canvas-id#xywh=2128,1076,310,132"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-16",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "III. O."
+    },
+    "on" : "http://canvas-id#xywh=631,1100,334,112"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-17",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Vie de Chevalier de Faublas. Nouv. ad. augm."
+    },
+    "on" : "http://canvas-id#xywh=435,1240,1671,202"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-18",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "T. I-VII. Londr. 1791. D."
+    },
+    "on" : "http://canvas-id#xywh=582,1362,957,111"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-19",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Nouv. Ed. T I-XIII. Paris 1806."
+    },
+    "on" : "http://canvas-id#xywh=640,1442,1224,82"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-20",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "D."
+    },
+    "on" : "http://canvas-id#xywh=1847,1437,175,89"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-21",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Br Litt. Gall"
+    },
+    "on" : "http://canvas-id#xywh=2041,1436,350,147"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-22",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Sv. avd."
+    },
+    "on" : "http://canvas-id#xywh=2080,1644,180,88"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-23",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Chevalier De Faublas Memoirer Del. 1.2."
+    },
+    "on" : "http://canvas-id#xywh=520,1617,1582,167"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-24",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Sv. lit."
+    },
+    "on" : "http://canvas-id#xywh=2095,1712,207,75"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-25",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Andra uppl. Stockh 1877. O"
+    },
+    "on" : "http://canvas-id#xywh=1121,1717,960,99"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-26",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Romaner"
+    },
+    "on" : "http://canvas-id#xywh=2102,1754,249,78"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-27",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Del. 1. 2 (Bibliothek för herrar 1851"
+    },
+    "on" : "http://canvas-id#xywh=1083,1810,931,108"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-28",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "3 uppl. 1.2. Norrk. 1892, 95, 8:o. 378 + 390 s. 4 uppl. 1. 2. Norrk. 1911."
+    },
+    "on" : "http://canvas-id#xywh=834,1820,1381,159"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-29",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Emelie Varmont, eller den Nödvändiga ägtenskaps-"
+    },
+    "on" : "http://canvas-id#xywh=485,1897,1563,131"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-30",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "skilnaden, och kyrkoherden Sevins kärleks-"
+    },
+    "on" : "http://canvas-id#xywh=687,1987,1420,135"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-31",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "händelser. D. 1. 2. 3. Sthm 1798. O."
+    },
+    "on" : "http://canvas-id#xywh=709,2061,1280,122"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-32",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Blad ur chevalier de Faublas ungdomslif. Be-"
+    },
+    "on" : "http://canvas-id#xywh=461,2202,1608,152"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-33",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "arbetning."
+    },
+    "on" : "http://canvas-id#xywh=690,2319,343,92"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-34",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Stockholm 1874."
+    },
+    "on" : "http://canvas-id#xywh=1099,2325,542,127"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-35",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Sv. avd."
+    },
+    "on" : "http://canvas-id#xywh=2116,2461,211,112"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-36",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Franska medborgaren Louvets öden. Öfvers."
+    },
+    "on" : "http://canvas-id#xywh=421,2462,1520,190"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-37",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Biogr."
+    },
+    "on" : "http://canvas-id#xywh=2088,2546,174,110"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-38",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "utl."
+    },
+    "on" : "http://canvas-id#xywh=2194,2621,140,75"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-39",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "D. [1], 2."
+    },
+    "on" : "http://canvas-id#xywh=530,2599,334,102"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-40",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Louvet"
+    },
+    "on" : "http://canvas-id#xywh=2217,2659,165,110"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-41",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Sthlm. 1797-98 8:o."
+    },
+    "on" : "http://canvas-id#xywh=546,2686,765,140"
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@id" : "https://bjarman.github.io/G3/annotations/236652.json-42",
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Vänd"
+    },
+    "on" : "http://canvas-id#xywh=2079,2949,214,133"
+  } ]
+}
